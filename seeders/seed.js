@@ -1,3 +1,4 @@
+app.use(require("./routes/api.js"));
 const mongoose = require('mongoose');
 const db = require('../models');
 
