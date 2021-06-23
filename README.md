@@ -41,16 +41,19 @@ _Steps require to install this project and to get the development environment ru
 ```bash
 npm init
 ```
-2. Seed the database by running the command below: 
+
+2. Seed the database by running the command below:
 
 ```bash
 npm run seed
 ```
+
 3. To generate the application run the following command in the terminal:
 
 ```bash
 npm start
-``` 
+```
+
 ## Technology
 
 - HTML
@@ -67,37 +70,42 @@ npm start
 
 The following is the live link of the application:
 
-[OH-MY!! Own Workout Tracker](https://docs.mongodb.com)
+[OH-MY!! Own Workout Tracker](https://oh-my-own-workout-tracker.herokuapp.com)
 
 ### Function
 
 - When the user loads the page, they are given the option to create a new workout or continue with their last workout.
 
-| Home Page                                    |
-| -------------------------------------------- |
+| Home Page |
+| --------- |
+
 |![Fitness Tracker](public/img/1.png)
 
 The user is able to:
 
 - Add exercises to the most recent workout plan by clicking the "Continue Workout" button.
 
-| Continue Workout Screen                      |
-| -------------------------------------------- |
+| Continue Workout Screen |
+| ----------------------- |
+
 ![Continue Workout](public/img/continue.png)
 
-- Add new exercises to a new workout plan by clicking the "New Workout" button. 
+- Add new exercises to a new workout plan by clicking the "New Workout" button.
 
-| New Workout Sreen                            |
-| -------------------------------------------- |
-  ![New Workout](public/img/new.png)
- 
+| New Workout Sreen |
+| ----------------- |
+
+![New Workout](public/img/new.png)
+
 - View the combined weight of multiple exercises, and the total duration of each workout from the past seven workouts on the `stats` page.
 
-| Dasboard Screen                              |
-| -------------------------------------------- |
- ![Fitness Tracker Dashboard](public/img/dashboard.png)
+| Dasboard Screen |
+| --------------- |
+
+![Fitness Tracker Dashboard](public/img/dashboard.png)
 
 ## Contributions
+
 The following were contributors to this project:
 
 - [Nadia Dorado](https://github.com/ndorado3)
